@@ -1,3 +1,12 @@
 body {
     background-color: aqua;
 }
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.link-container a {
+    margin: 1em;
+}
